@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RGHV122
+- 👋 Hi, I’m Raghav
 - 👀 I’m interested in development project, i have worked on full stack development with various frameworks like angular,angularJS, hibernate, Spring boot, Django
 - 🌱 I’m currently learning android app development
 - 💞️ I’m looking to collaborate on app/web development projects
