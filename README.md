@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Raghav
-- 👀 I’m interested in development, i have worked on full stack development with various frameworks like angular,angularJS, hibernate, Spring boot, Django
-- 🌱 I’m currently learning android app development
-- 💞️ I’m looking to collaborate on app/web development projects
+- 👀 I love solving real life problems with my technical skills, i have worked on full stack development with various frameworks like React, Spring boot, Django
+- 💞️ I’m open to collaborate on app/web development projects
 - 📫 You can reach out to me on - rghvmandowara@gmail.com
 
 <!---
